@@ -1,0 +1,31 @@
+{
+  "name": "jay-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayDeAlmeida/Quake_Game_Log_Parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayDeAlmeida/Quake_Game_Log_Parser/issues"
+  },
+  "homepage": "https://github.com/JayDeAlmeida/Quake_Game_Log_Parser#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
