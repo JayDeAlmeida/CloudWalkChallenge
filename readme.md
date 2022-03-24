@@ -54,6 +54,10 @@ The counter total_kills includes player and world deaths.
   You can type `npm install` on the terminal to download all the needed packages to run the project.
   
   With all these done, you are ready to run the tests by typing the comand `npm test` or `npx jest`.
+  
+  These will run all the 12 tests and 2 tests suites.
+  
+  The tests are supposed to pass.
  
   
   
