@@ -59,9 +59,10 @@ The counter total_kills includes player and world deaths.
   
   To open the report you have to go to your terminal and do the following commands:
   
-  npm run dev
+  `npm run dev`
   
   with this done, you can open your preferred browser, go for a new tab and insert the following link
+ 
   http://localhost:4000/games
   
   this link will show you all the game logs statitics
