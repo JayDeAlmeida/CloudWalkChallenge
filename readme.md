@@ -42,8 +42,8 @@ The counter total_kills includes player and world deaths.
   
   You need to have node installed in your machine.
   
-  first you have to open the folder wherer you want to save the project,
-  then you do a Git Clone on the repository (https://github.com/JayDeAlmeida/CloudWalkChallenge).
+  first you have to open the folder where you want to save the project,
+  then, on your preferred terminal, you do the command git clone https://github.com/JayDeAlmeida/CloudWalkChallenge .
   With this step done, you open the repositoy folder on your preferred terminal.
   You can type "npm install" on the terminal to download all the needed packages to run the project.
   With all these done, you are ready to run the tests by typing the comand "npm test" or "npx jest".
