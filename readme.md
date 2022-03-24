@@ -47,7 +47,7 @@ The counter total_kills includes player and world deaths.
   
   then, on your preferred terminal, you do the command 
   
-    git clone https://github.com/JayDeAlmeida/CloudWalkChallenge .
+  `git clone https://github.com/JayDeAlmeida/CloudWalkChallenge` .
   
   With this step done, you open the repositoy folder on your preferred terminal.
   
