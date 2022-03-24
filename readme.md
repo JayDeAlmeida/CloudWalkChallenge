@@ -40,13 +40,20 @@ The counter total_kills includes player and world deaths.
   
     HOW TO RUN THE PROJECT
   
+  
   You need to have node installed in your machine.
   
   first you have to open the folder where you want to save the project,
+  
   then, on your preferred terminal, you do the command git clone https://github.com/JayDeAlmeida/CloudWalkChallenge .
+  
   With this step done, you open the repositoy folder on your preferred terminal.
+  
   You can type "npm install" on the terminal to download all the needed packages to run the project.
+  
   With all these done, you are ready to run the tests by typing the comand "npm test" or "npx jest".
+ 
+  
   
   To open the report you have to go to your terminal and do the following commands:
   
@@ -54,9 +61,15 @@ The counter total_kills includes player and world deaths.
   
   with this done, you can open your preferred browser, go for a new tab and insert the following link
   http://localhost:4000/games
+  
   this link will show you all the game logs statitics
+  
   to filter wich game you want to see the data, just add / and the game number, ex.:
+  
   http://localhost:400/games/2
+  
   this link willl show only the data of the second match.
+  
+  
   
   enjoy!
