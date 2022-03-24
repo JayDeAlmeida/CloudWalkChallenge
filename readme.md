@@ -61,7 +61,9 @@ The counter total_kills includes player and world deaths.
  
   
   
-  To open the report you have to go to your terminal and do the following commands:
+     To open the report you have to go to your terminal and do the following commands:
+  
+  
   
   `npm run dev`
   
