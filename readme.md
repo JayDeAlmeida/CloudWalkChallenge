@@ -36,3 +36,17 @@ The counter total_kills includes player and world deaths.
   Create a script that prints a report (grouped information) for each match and a player ranking.
   
   Generate a report of deaths grouped by death cause for each match.
+
+  
+  HOW TO RUN THE PROJECT
+  
+Before run the project it's good to know if you have Node installed, you can use the following commands.
+
+node -v
+
+havin Node, we can run the project.
+
+$ cd backend
+$ yarn install # or npm install
+$ yarn dev
+it will be on the port 4000
